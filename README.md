@@ -8,3 +8,6 @@ We added new feature that can bypass all server
 Update 31-08-2022:
 - Green Wso Shell Decoded
   (Original Encoded Code have logger haha so i remove that logger)
+- Cgi Telnet (Green Shell)
+- Symlink (Green Shell)
+- Config Grab (Green Shell)
