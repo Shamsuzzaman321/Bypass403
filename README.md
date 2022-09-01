@@ -11,3 +11,4 @@ Update 31-08-2022:
 - Cgi Telnet (Green Shell)
 - Symlink (Green Shell)
 - Config Grab (Green Shell)
+- Lock Shell (New)
